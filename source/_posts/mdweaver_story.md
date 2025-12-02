@@ -1,3 +1,10 @@
+---
+title: 身体到不了的地方，文字可以
+date: 2025-12-02 23:00:00
+tags: [markdown]
+categories: AI应用
+keywords: Gemini
+---
 # 身体到不了的地方，文字可以
 ## —— 47岁送货大叔，在三轮车上用手机“编织”出的那个App
 
